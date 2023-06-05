@@ -7,15 +7,15 @@ This course provides an opportunity to learn about the academic job market and g
 Date | Topic | Preparation
 --- | --- | ---
 10/2 | Overview |    
-10/9 | Panel - Types of Universities & Positions | UCSD   
-10/16 | [Farnaz Jahanbakhsh](https://people.csail.mit.edu/farnazj/) | MIT  
-10/23 | [Katherine Song](https://kwsong.github.io/) | UC Berkeley   
-10/30 | [Sangho Suh](https://sanghosuh.github.io/) | UCSD    
-11/6 | [Joon Sung Park](http://www.joonsungpark.com/) | Stanford   
-11/13 | [Udayan Tandon](https://www.udayan.info/) | UCSD  
-11/20 | [Veronica Rivera](https://vrivera2017.github.io/) | UCSC  
-11/27 | [Priyanka Nanayakkara](https://priyakalot.github.io/)| Northwestern  
-12/4 | Closing social event |   
+10/9 | Panel - Types of Universities & Positions | ?   
+10/16 | Teaching Statements | ?  
+10/23 | Research Statements | ?   
+10/30 | Feedback on Research/Teaching Statement | ?    
+11/6 | Job Talks | ?   
+11/13 | Teaching Demos | ?   
+11/20 | Practice Job Talk | ?  
+11/27 | Interviews | ?  
+12/4 | Closing social event/misc topics? |  - 
 
 
 ## Logistics
