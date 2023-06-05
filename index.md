@@ -7,7 +7,7 @@ This course provides an opportunity to learn about the academic job market and g
 Date | Topic | Preparation
 --- | --- | ---
 10/2 | Overview |    
-10/9 | Panel - Types of Universities & Positions | ?   
+10/9 | Panel - Types of Universities & Positions | The Jobs I Didn't See: My Misconceptions of the Academic Job Market [Live](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) [PDF]()  
 10/16 | Teaching Statements | ?  
 10/23 | Research Statements | ?   
 10/30 | Feedback on Research/Teaching Statement | ?    
