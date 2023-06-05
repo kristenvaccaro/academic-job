@@ -1,6 +1,6 @@
-# Interactive Computing Seminar: Winter 2023 
+# Navigating the Academic Job Market Seminar: Fall 2023 
 
-This course provides an opportunity to meet other interactive computing researchers and get a sense of the work in human-computer interaction and interactive computing. 
+This course provides an opportunity to learn about the academic job market and get feedback in a supportive environment. 
 
 ## Schedule
 
