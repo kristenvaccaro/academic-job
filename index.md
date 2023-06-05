@@ -4,18 +4,18 @@ This course provides an opportunity to learn about the academic job market and g
 
 ## Schedule
 
-Date | Speaker | Affiliation
+Date | Topic | Preparation
 --- | --- | ---
-1/11 | Intros / social event |    
-1/18 | [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart/mary-annes-profile) | UCSD   
-1/25 | [Farnaz Jahanbakhsh](https://people.csail.mit.edu/farnazj/) | MIT  
-2/1 | [Katherine Song](https://kwsong.github.io/) | UC Berkeley   
-2/8 | [Sangho Suh](https://sanghosuh.github.io/) | UCSD    
-2/15 | [Joon Sung Park](http://www.joonsungpark.com/) | Stanford   
-2/22 | [Udayan Tandon](https://www.udayan.info/) | UCSD  
-3/1 | [Veronica Rivera](https://vrivera2017.github.io/) | UCSC  
-3/8 | [Priyanka Nanayakkara](https://priyakalot.github.io/)| Northwestern  
-3/15 | Closing social event |   
+10/2 | Overview |    
+10/9 | Panel - Types of Universities & Positions | UCSD   
+10/16 | [Farnaz Jahanbakhsh](https://people.csail.mit.edu/farnazj/) | MIT  
+10/23 | [Katherine Song](https://kwsong.github.io/) | UC Berkeley   
+10/30 | [Sangho Suh](https://sanghosuh.github.io/) | UCSD    
+11/6 | [Joon Sung Park](http://www.joonsungpark.com/) | Stanford   
+11/13 | [Udayan Tandon](https://www.udayan.info/) | UCSD  
+11/20 | [Veronica Rivera](https://vrivera2017.github.io/) | UCSC  
+11/27 | [Priyanka Nanayakkara](https://priyakalot.github.io/)| Northwestern  
+12/4 | Closing social event |   
 
 
 ## Logistics
