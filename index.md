@@ -22,36 +22,24 @@ Date | Topic | Preparation
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/hci-seminar)     
 
-Classroom: CSE Building 2154   
-Class Day/Times: Wednesday 11AM PT  
+Classroom: CSE Building 4140   
+Class Day/Times: Monday 11AM PT  
 
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu  
 
-## Related Faculty
-
-[Scott Klemmer](https://d.ucsd.edu/srk/)  
-[Bill Griswold](https://cseweb.ucsd.edu/~wgg/)  
-[Nadir Weibel](https://hxi.ucsd.edu/author/nadir-weibel/)  
-[Laurel Riek](https://lriek.myportfolio.com/)  
-[Kristen Vaccaro](http://kvaccaro.com)   
-[Mai ElSherief](https://melsherief.eng.ucsd.edu/)  
-[Imani Munyaka](https://www.imanimunyaka.com/)  
-[Michael Coblenz](https://cseweb.ucsd.edu//~mcoblenz/)  
-
 
 ## Grading
 
 Percentage | Activity
 --- | ---
-100% | Active Participation  
-
-Please attend talks and participate in the discussion with speakers after their talks.
+50% | Homework/Preparation  
+50% | Active Participation
 
 Absence Policy: You will receive *2 free absences*. If you will miss more than 2 classes, please contact the instructor.
 
 
 ## Archives of Past Offerings
-[Winter 2023](https://kristenvaccaro.github.io/hci-seminar/winter2023)
+First offering
