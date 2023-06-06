@@ -11,7 +11,7 @@ Date | Topic | Preparation
 10/16 | Research Statements | [Research Statements - UW](https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf)    
 10/23 | Teaching Statements | [Teaching Statements - UNC](https://writingcenter.unc.edu/tips-and-tools/teaching-statements/)     
 10/30 | Feedback on Research/Teaching Statement | BRING: your research/teaching statement   
-11/6 | Other Materials (CV, Cover Letter, Diversity Statements, Teaching Porfolios) |
+11/6 | Other Materials (CV, Cover Letter, Diversity Statements, Teaching Porfolios) | [Application Materials for Faculty Positions](https://career.ucsf.edu/gsp/faculty-samples#Understand-the-application-materials)
 11/13 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785)     
 11/20 | Practice Job Talk | BRING: first 5 min of your job talk  
 11/27 | Interviews | [Reflections on the CS Academic and Industry Job Markets](https://rowanzellers.com/blog/rowan-job-search/)  
