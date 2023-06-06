@@ -8,8 +8,8 @@ Date | Topic | Preparation
 --- | --- | ---
 10/2 | Overview |    
 10/9 | Panel - Types of Universities & Positions | [The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) 
-10/16 | Teaching Statements | [Teaching Statements - UNC](https://writingcenter.unc.edu/tips-and-tools/teaching-statements/)  
-10/23 | Research Statements | [Research Statements - UW](https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf)   
+10/16 | Research Statements | [Research Statements - UW](https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf)    
+10/23 | Research Statements | Teaching Statements | [Teaching Statements - UNC](https://writingcenter.unc.edu/tips-and-tools/teaching-statements/)     
 10/30 | Feedback on Research/Teaching Statement | BRING: your research/teaching statement   
 11/6 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785)   
 11/13 | Teaching Demos & Portfolios | [How to Give a Teaching Demonstration](https://theprofessorisin.com/2012/01/10/how-to-give-a-teaching-demonstration-a-guest-post/)   
