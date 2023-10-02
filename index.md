@@ -25,6 +25,19 @@ This course provides an opportunity to learn about the academic job market and g
     <td>Panel - Types of Universities & Positions</td>
     <td><a href="https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422">The Jobs I Didn't See: My Misconceptions of the Academic Job Market</a></td>
   </tr>
+  <tr>
+    <td colspan="3">Week 3: Research Statements</td>
+  </tr>
+   <tr>
+    <td>10/16</td>
+    <td>How to write a research statement</td>
+    <td><a href="https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf">Research Statements</a></td>
+  </tr>
+  <tr>
+    <td>10/11</td>
+    <td>Panel - Types of Universities & Positions</td>
+    <td><a href="https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422">The Jobs I Didn't See: My Misconceptions of the Academic Job Market</a></td>
+  </tr>
 
 </table>
 
