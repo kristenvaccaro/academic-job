@@ -4,6 +4,19 @@ This course provides an opportunity to learn about the academic job market and g
 
 ## Schedule
 
+<table>
+  <tr>
+    <td>Date</td>
+    <td>Topic</td>
+    <td>Preparation</td>
+  </tr>
+  <tr>
+    <td colspan="3">Week 1: Overview</td>
+  </tr>
+</table>
+
+
+
 | Date | Topic | Preparation |
 | --- | --- | --- |
 |<td colspan=3>Week 1: Overview</td> |
