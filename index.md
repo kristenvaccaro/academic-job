@@ -57,7 +57,7 @@ This course provides an opportunity to learn about the academic job market and g
 11/1  | Other Materials (CV, Cover Letter, Diversity Statements, Teaching Portfolios) | [Application Materials for Faculty Positions](https://career.ucsf.edu/gsp/faculty-samples#Understand-the-application-materials)
 11/6  | Mock Interviews | [Reflections on the CS Academic and Industry Job Markets](https://rowanzellers.com/blog/rowan-job-search/)  
 11/8  | Chair Interview | 
-11/13 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785) [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)      
+11/13 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785) & [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)      
 11/15 | Practice Job Talk | BRING: first 5 min of your job talk  
 11/20 | Job Talk Deep Dive | One volunteer brings entire job talk
 11/22 | Holiday |
@@ -72,14 +72,20 @@ This course provides an opportunity to learn about the academic job market and g
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/hci-seminar)     
 
-Classroom: CSE Building 4140   
-Class Day/Times: Monday 11AM PT  
+Classroom: CSE Building 2154   
+Class Day/Times: Monday & Wednesday 5PM PT  
 
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu  
 
+[Hadi Esmaeilzadeh](https://cseweb.ucsd.edu/~hadi/)
+hadi@ucsd.edu
+
+TAs
+[Rohan Mahapatra](https://scholar.google.com/citations?user=FJp7Oo0AAAAJ&hl=en)
+rohan@ucsd.edu
 
 ## Grading
 
