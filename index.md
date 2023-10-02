@@ -34,9 +34,9 @@ This course provides an opportunity to learn about the academic job market and g
     <td><a href="https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf">Research Statements</a></td>
   </tr>
   <tr>
-    <td>10/11</td>
-    <td>Panel - Types of Universities & Positions</td>
-    <td><a href="https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422">The Jobs I Didn't See: My Misconceptions of the Academic Job Market</a></td>
+    <td>10/18</td>
+    <td>Peer review</td>
+    <td>BRING: your research statement</td>
   </tr>
 
 </table>
