@@ -64,7 +64,7 @@ This course provides an opportunity to learn about the academic job market and g
 11/27 | Funding & Proposal Writing |  
 11/29 | Ethics & Survival Skills |  
 12/4  | Student Choice | 
-12/6  | Closing social event/misc topics? |   
+12/6  | Closing social event |   
 
 <!-- [PDF](https://drive.google.com/file/d/1PTxpD2cex8C1LxpOkxMp_-YHsklVM-OZ/view?usp=sharing)   -->
 
