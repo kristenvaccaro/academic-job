@@ -16,11 +16,16 @@ This course provides an opportunity to learn about the academic job market and g
   <tr>
     <td colspan="3">Week 2: Types of Programs</td>
   </tr>
-  <tr>
+ <tr>
     <td>10/9</td>
+    <td colspan="2"> Holiday</td>
+  </tr>
+  <tr>
+    <td>10/11</td>
     <td>Panel - Types of Universities & Positions</td>
     <td><a href="https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422">The Jobs I Didn't See: My Misconceptions of the Academic Job Market</a></td>
   </tr>
+
 </table>
 
 
