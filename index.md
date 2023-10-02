@@ -60,10 +60,10 @@ This course provides an opportunity to learn about the academic job market and g
 11/13 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785)     
 11/15 | Practice Job Talk | BRING: first 5 min of your job talk  
 11/20 | Job Talk Deep Dive | One volunteer brings entire job talk
-11/22 | Funding & Proposal Writing |
-11/27 |
-11/29 | 
-12/4  |
+11/22 | Holiday |
+11/27 | Funding & Proposal Writing |  
+11/29 | Ethics & Survival Skills |  
+12/4  | Student Choice | 
 12/6  | Closing social event/misc topics? |   
 
 <!-- [PDF](https://drive.google.com/file/d/1PTxpD2cex8C1LxpOkxMp_-YHsklVM-OZ/view?usp=sharing)   -->
