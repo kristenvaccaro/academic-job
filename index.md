@@ -6,7 +6,7 @@ This course provides an opportunity to learn about the academic job market and g
 
 Date | Topic | Preparation
 --- | --- | ---
-| <td colspan=3> Week 1: Overview |
+<td colspan=3> Week 1: Overview 
 10/2 | Overview |    
 Week 2: Types of Programs
 10/9 | Panel - Types of Universities & Positions | [The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) 
