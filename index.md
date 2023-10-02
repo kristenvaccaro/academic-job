@@ -6,7 +6,9 @@ This course provides an opportunity to learn about the academic job market and g
 
 Date | Topic | Preparation
 --- | --- | ---
+Week 1: Overview
 10/2 | Overview |    
+Week 2: Types of Programs
 10/9 | Panel - Types of Universities & Positions | [The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) 
 10/16 | Research Statements | [Research Statements - UW](https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf)    
 10/23 | Teaching Statements | [Teaching Statements - UNC](https://writingcenter.unc.edu/tips-and-tools/teaching-statements/)     
