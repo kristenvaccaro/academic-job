@@ -3,7 +3,7 @@
 This course provides an opportunity to learn about the academic job market and get feedback in a supportive environment. 
 
 ## Schedule
-
+<!--
 <table>
   <tr>
     <td>Date</td>
@@ -40,7 +40,7 @@ This course provides an opportunity to learn about the academic job market and g
   </tr>
 
 </table>
-
+-->
 
 
 | Date | Topic | Preparation |
