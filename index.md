@@ -87,6 +87,12 @@ TAs
 [Rohan Mahapatra](https://scholar.google.com/citations?user=FJp7Oo0AAAAJ&hl=en)
 rohan@ucsd.edu
 
+## Other Recommended Reading
+
+[The Art and Politics of College Teaching: A Practical Guide for the Beginning Professor](https://www.amazon.com/Art-Politics-College-Teaching-Practical/dp/0820452041)   
+[Style: The Basics of Clarity and Grace](https://www.amazon.com/Style-Basics-Clarity-Grace-4th/dp/0205830765/)   
+[Notes on Constructive and Positive Reviewing by Mark Hill and Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/notes/reviewing.html)  
+
 ## Grading
 
 Percentage | Activity
