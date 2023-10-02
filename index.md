@@ -80,12 +80,12 @@ Class Day/Times: Monday & Wednesday 5PM PT
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu  
 
-[Hadi Esmaeilzadeh](https://cseweb.ucsd.edu/~hadi/)
-hadi@ucsd.edu
+[Hadi Esmaeilzadeh](https://cseweb.ucsd.edu/~hadi/)  
+hadi@ucsd.edu  
 
-TAs
-[Rohan Mahapatra](https://scholar.google.com/citations?user=FJp7Oo0AAAAJ&hl=en)
-rohan@ucsd.edu
+TAs   
+[Rohan Mahapatra](https://scholar.google.com/citations?user=FJp7Oo0AAAAJ&hl=en)   
+rohan@ucsd.edu   
 
 ## Other Recommended Reading
 
