@@ -53,8 +53,8 @@ This course provides an opportunity to learn about the academic job market and g
 10/18 | Peer Review | BRING: your research statement
 10/23 | Teaching Statements | [Teaching Statements - UNC](https://writingcenter.unc.edu/tips-and-tools/teaching-statements/)     
 10/25 | Peer Review | BRING: your teaching statement
-10/30 | Panel - Recent Hires | 
-11/1  | Other Materials (CV, Cover Letter, Diversity Statements, Teaching Portfolios) | [Application Materials for Faculty Positions](https://career.ucsf.edu/gsp/faculty-samples#Understand-the-application-materials)
+10/30 | Other Materials (CV, Cover Letter) | 
+11/1  | Other Materials (Diversity Statements, Teaching Portfolios) | [Application Materials for Faculty Positions](https://career.ucsf.edu/gsp/faculty-samples#Understand-the-application-materials)
 11/6  | Mock Interviews | [Reflections on the CS Academic and Industry Job Markets](https://rowanzellers.com/blog/rowan-job-search/)  
 11/8  | Chair Interview | 
 11/13 | Job Talks | [Talking the Talk](https://niklaselmqvist.medium.com/talking-the-talk-c5e1fd7a5785) & [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)      
