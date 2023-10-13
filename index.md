@@ -47,7 +47,7 @@ This course provides an opportunity to learn about the academic job market and g
  ---  | --- | --- 
 10/2  | Introductions |  
 10/4  | Overview of Timeline/Materials | [The Academic Job Market: An Intro For Everyone](https://cogsci.ucmerced.edu/sites/cogsci.ucmerced.edu/files/documents/the_academic_job_market.pdf)
-10/9  | Panel - Recent Hires |
+10/9  | Panel - The Job Hunt | 
 10/11 | Panel - Types of Universities & Positions | [The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) 
 10/16 | Research Statements | [Research Statements - UW](https://careers.uw.edu/wp-content/uploads/sites/25/2016/06/Research-Statements.pdf)    
 10/18 | Peer Review | BRING: your research statement
